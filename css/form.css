@@ -1,0 +1,83 @@
+/****Form****/
+
+#form {
+}
+#form input {
+	border: 1px solid #e5e5e5;
+	background:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#60575c;
+	padding:9px 10px 8px 13px;
+	outline: medium none;
+	width: 322px;
+	height:17px;
+	float:left;
+}
+#form textarea {
+	
+	border: 1px solid #e5e5e5;
+	background:#fff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#60575c;
+	height: 234px !important;
+	outline: medium none;
+	overflow: auto;
+	padding: 6px 14px 9px 13px;
+	width: 611px;
+	position: relative;
+	resize:none;
+	float:left;
+	margin: 0;
+}
+#form label {
+	position:relative;
+	display: block;
+	min-height: 46px;
+	overflow: hidden;
+	float: left;
+}
+#form .error, #form .empty {
+	color: #FF0000;
+	display: none;
+	font-size: 11px;
+	line-height:14px;
+	width:180px;
+	float:left;
+	margin-top:2px;
+}
+#form .error-empty {
+	margin: 4px 0 4px 5px !important;
+	display:none;
+	float:left;
+}
+
+.btns {
+	position:relative;
+	overflow:hidden;
+}
+.btns a {
+	margin: 30px 2px 34px 17px !important;
+	cursor: pointer;
+	float: right;
+	padding-left: 17px;
+	padding-right: 17px;
+}
+
+#btn{
+	margin: 30px 2px 34px 17px !important;
+	cursor: pointer;
+	float: right;
+	padding-left: 17px;
+	padding-right: 17px;
+}
+.message br {
+	height: 0;
+	line-height: 0;
+}
+
+#form .success {
+	display: none;	
+}
+
