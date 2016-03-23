@@ -25,9 +25,7 @@ the following conditions are met:
    they are derived from CodeIgniter in their documentation and/or other
    materials provided with the distribution.
 
-6. Products derived from the Software may not be called "CodeIgniter",
-   nor may "CodeIgniter" appear in their name, without prior written
-   permission from EllisLab, Inc.
+6. Products derived from the Software may not be called "CodeIgniter".
 
 
 INDEMNITY
